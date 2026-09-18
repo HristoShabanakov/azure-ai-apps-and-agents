@@ -1,0 +1,4 @@
+azure-ai-projects==2.6.1
+azure-identity
+azure-cognitiveservices-speech
+python-dotenv
