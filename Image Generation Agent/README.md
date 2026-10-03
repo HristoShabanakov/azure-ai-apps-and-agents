@@ -58,7 +58,7 @@ Your `.env.example` can contain the same variable names with placeholder values.
 ## Run
 
 ```cmd
-python flux_image_agent.py
+python generate_image.py
 ```
 
 Example:
